@@ -107,3 +107,7 @@ window:set_right_status("my status")
 ## Credits
 
 Inspired by the WezTerm community and official documentation.
+
+### Attribution
+
+This configuration is based on https://github.com/QianSong1/wezterm-config and extends it with additional customization and features. That project itself was derived from and improved upon an earlier WezTerm configuration, and this repository continues the same lineage of iteration and extension.
