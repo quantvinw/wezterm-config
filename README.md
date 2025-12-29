@@ -16,7 +16,7 @@ This project organizes WezTerm settings into small modules so you can tweak beha
 
 ## Installation & Usage
 
-1. Install WezTerm: https://wezfurlong.org/wezterm/install/installation.html
+1. Install WezTerm: https://wezterm.org/installation.html
 2. Place this repo into your config directory:
    - Linux/macOS/WSL: `~/.config/wezterm/`
    - Windows: `C:\Users\YourName\.config\wezterm\`
